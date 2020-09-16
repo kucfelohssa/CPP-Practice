@@ -2,3 +2,5 @@
 g++ -std=c++1z -o EcoSim EcoSim.cpp
 ./EcoSim
 rm -f EcoSim
+
+Fuck you
